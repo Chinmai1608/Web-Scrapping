@@ -9,12 +9,39 @@ The objective of this mini-project is to develop skills in web scraping by extra
 
 Project Requirements:
 
-#### 1) Scraping Target: 
+###  Scraping Target: 
 MG Hector Cars listed on Cars24.com for the Noida location.
 
-#### 2) Data to Collect:
+### Data to Collect:
    * Kilometers Driven
    * Year of Manufacture
    * Fuel Type
    * Transmission
    * Price
+
+### Steps to Follow:
+#### 1) Research and Planning:
+*    Understand the structure of Cars24.com.
+*    Identify the HTML elements containing the required information.
+
+
+#### 3) Data Extraction:
+*    Write a script to scrape the necessary details (kilometers driven, year of manufacture, fuel type, transmission, and price) for the assigned brand.
+
+
+#### 4) Data Cleaning:
+*    Ensure the scraped data is clean and organized for analysis.
+
+
+#### 5) Data Presentation:
+*    Present the collected data in a structured format in a CSV.
+
+### Deliverables:
+1) Python Notebook:
+    A well-documented .ipynb notebook used for the web scraping project.
+
+2) Presentation file:
+    The presentation file must be converted into a pdf before submissions
+
+3) Report
+    A brief report detailing the process, any challenges faced, solutions implemented, and insights gained from the data.
