@@ -46,4 +46,4 @@ MG Hector Cars listed on Cars24.com for the Noida location.
 3) Report
     A brief report detailing the process, any challenges faced, solutions implemented, and insights gained from the data.
 
-<noscript><a href='https://github.com/user-attachments/files/16321722/First.Major.Project.Team.M.-2.pdf'><img alt='MINI-PROJECT-PRESENTATION' src='https://github.com/user-attachments/assets/2eed4680-356f-4b4c-a499-7891f5a37a46' style='border: none' /></a></noscript>
+<noscript><a href='https://www.canva.com/design/DAGKKU9J3js/xMECfBC8Ep4ijTlS3vzing/edit?utm_content=DAGKKU9J3js&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'><img alt='MINI-PROJECT-PRESENTATION' src='https://github.com/user-attachments/assets/2eed4680-356f-4b4c-a499-7891f5a37a46' style='border: none' /></a></noscript>
